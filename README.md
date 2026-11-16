@@ -1,4 +1,4 @@
-# [Your Game Title]
+# The Ultimate Adventure
 
 A text-based adventure game built in Python for Hack Club PHANTOM.
 
